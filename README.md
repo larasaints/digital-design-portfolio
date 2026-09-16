@@ -41,16 +41,9 @@ Visual assets created for digital, promotional, and product-focused use.
 
 ---
 
-### 📱 Digital Products
+### Projects
 
-Interactive and downloadable digital products designed with usability, organization, and visual presentation in mind.
-
-Examples include:
-
-* Pickleball training resources
-* Interactive drill cards
-* Digital planners
-* Challenge-based products
+A directory that serves as the conceptual and analytical backbone of this portfolio. This folder contains deep-dive documentation that pulls back the curtain on the creative process, technical workflows, and strategic problem-solving behind each piece of work.
 
 **→ [View Projects](projects/)**
 
@@ -91,7 +84,7 @@ Each project folder provides additional information about the work, including th
 https://larasaints.github.io/
 
 **TikTok — Work Samples**
-[@laradigitalbusiness](YOUR_TIKTOK_LINK)
+[@laradigitalbusiness](https://www.tiktok.com/@laradigitalbusiness?is_from_webapp=1&sender_device=pc)
 
 ---
 
