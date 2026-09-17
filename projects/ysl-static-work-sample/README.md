@@ -1,4 +1,4 @@
-# 🎨 @SAINT LAURENT — Luxury Product Static Advertisement
+# 🎨 YSL — Luxury Product Static Advertisement
 
 A premium minimalist static graphic design poster engineered to showcase high-end product-focused branding for a luxury cosmetics line, "Yves Saint Laurent Rouge Pur." This project balances high-fashion typographic systems with dynamic product-wrapping textures for impactful social media and editorial placements.
 
