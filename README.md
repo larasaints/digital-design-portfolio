@@ -4,15 +4,17 @@ A collection of selected creative work, digital products, motion graphics, and v
 
 This repository showcases my hands-on design work, creative process, and the tools I use to turn ideas into practical digital assets.
 
-For my complete professional profile, experience, skills, and contact information:
-
-**→ [Visit My Personal Portfolio](https://larasaints.github.io/)**
-
 ---
 
 ## 🎨 What I Create
 
-### 🎬 Motion Graphics & Video
+### PROJECTS
+
+A directory that serves as the conceptual and analytical backbone of this portfolio. This folder contains deep-dive documentation that pulls back the curtain on the creative process, technical workflows, and strategic problem-solving behind each piece of work.
+
+**→ [View All Individual Motion & Static Graphic Design In Detail](projects/)**
+
+<ol><h4> 1. 🎬 MOTION GRAPHICS & VIDEOS </h4>
 
 Short-form promotional content and motion graphics created by combining visual design, animation, transitions, timing, and editing.
 
@@ -23,11 +25,9 @@ Short-form promotional content and motion graphics created by combining visual d
 * CTA placement
 * Motion timing and pacing
 
-**→ [View Motion Work](motion/)**
+**→ [View Motion Work Samples](motion/)**
 
----
-
-### Static Design
+<h4>2. STATIC DESIGN </h4>
 
 Visual assets created for digital, promotional, and product-focused use.
 
@@ -37,16 +37,7 @@ Visual assets created for digital, promotional, and product-focused use.
 * Digital layouts
 * Marketing visuals
 
-**→ [View Static Design](static/)**
-
----
-
-### Projects
-
-A directory that serves as the conceptual and analytical backbone of this portfolio. This folder contains deep-dive documentation that pulls back the curtain on the creative process, technical workflows, and strategic problem-solving behind each piece of work.
-
-**→ [View Projects](projects/)**
-
+**→ [View Static Design](static/)** </ol>
 
 ---
 
@@ -54,6 +45,8 @@ A directory that serves as the conceptual and analytical backbone of this portfo
 
 * Canva
 * CapCut
+* Google Workspace
+* Other AI tools
 
 ---
 
@@ -90,7 +83,7 @@ https://larasaints.github.io/
 
 ## About This Repository
 
-This repository is maintained as a **work portfolio and project showcase**.
+This repository is maintained as a **work-samples-only portfolio and project showcase**.
 
 The projects demonstrate my ability to work across visual design, digital products, motion graphics, content presentation, and creative production.
 
